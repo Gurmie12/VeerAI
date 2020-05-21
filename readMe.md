@@ -1,4 +1,4 @@
-#VEER AI
+# Veer AI
 
 Use "npm install" to install the dependencies.
 
