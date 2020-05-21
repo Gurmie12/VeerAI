@@ -1,0 +1,21 @@
+
+html, body{
+  background-image: linear-gradient(to bottom right, black, white);
+  height: 100%;
+}
+
+.body{
+  height: 100%;
+}
+
+#home-title{
+  color: white;
+}
+
+#input-label{
+  color: white;
+}
+
+#response-title{
+  color: white;
+}
